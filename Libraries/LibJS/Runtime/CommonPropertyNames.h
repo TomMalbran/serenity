@@ -69,7 +69,6 @@ namespace JS {
     P(asin)                                  \
     P(asinh)                                 \
     P(atan)                                  \
-    P(atan2)                                 \
     P(atanh)                                 \
     P(bind)                                  \
     P(byteLength)                            \
@@ -86,7 +85,6 @@ namespace JS {
     P(construct)                             \
     P(constructor)                           \
     P(cos)                                   \
-    P(cosh)                                  \
     P(count)                                 \
     P(countReset)                            \
     P(debug)                                 \
@@ -112,7 +110,6 @@ namespace JS {
     P(forEach)                               \
     P(from)                                  \
     P(fromCharCode)                          \
-    P(fround)                                \
     P(gc)                                    \
     P(get)                                   \
     P(getDate)                               \
@@ -140,9 +137,7 @@ namespace JS {
     P(groups)                                \
     P(has)                                   \
     P(hasOwnProperty)                        \
-    P(hypot)                                 \
     P(ignoreCase)                            \
-    P(imul)                                  \
     P(includes)                              \
     P(index)                                 \
     P(indexOf)                               \
@@ -165,8 +160,6 @@ namespace JS {
     P(length)                                \
     P(log)                                   \
     P(log1p)                                 \
-    P(log2)                                  \
-    P(log10)                                 \
     P(map)                                   \
     P(max)                                   \
     P(message)                               \
@@ -200,7 +193,6 @@ namespace JS {
     P(shift)                                 \
     P(sign)                                  \
     P(sin)                                   \
-    P(sinh)                                  \
     P(slice)                                 \
     P(some)                                  \
     P(sort)                                  \
@@ -213,7 +205,6 @@ namespace JS {
     P(substr)                                \
     P(substring)                             \
     P(tan)                                   \
-    P(tanh)                                  \
     P(test)                                  \
     P(toDateString)                          \
     P(toISOString)                           \
